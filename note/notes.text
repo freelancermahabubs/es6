@@ -1,0 +1,44 @@
+today notes.
+1.
+let: Let it to reassign.
+const: do not allow it to reassign.
+
+2. What is difference between var, let and const?
+
+2-1. var is function-scoped while let and const are block-scoped.
+2-2. var variables can be reassigned while let and const variables can not.
+2-3. var variables are declared using the var keyword while let and const;
+2-4. variables are declared using the let and const keywords respectively.
+2-5. const variables are immutable while let and var variables are not.
+
+3. Arguments vs. Parameters?
+
+Sometimes, you can use the terms argument and parameter interchangeably. However, by definition, parameters are what you specify in the function declaration whereas the arguments are what you pass into the function.
+
+
+4. JavaScript Default Parameter?
+
+Typically, in JavaScript functions, the parameter has undefined as its default value which means that it is the default value and will be supplied when no other value will be provided as the function parameter value.
+
+Although there are various ways of using default parameters, let's see an example to understand how the default parameter works actually and how to set default parameter in a function.
+
+5. Common Keys/Ascll code you should know...
+keys/Ascll Code:
+/n = NewLine (it takes the cursor the the next lin);
+' = Backtick;
+'' = single quotes;
+"" = double quotes;
+/ = forward slash;
+\ = BackWard slash;
+; = Semicolon;
+
+6. Template Literals;
+7. Dynamic String = for dynamic sting we need to use the placeholder ${};
+
+8.function Expression
+
+*** InterView Question : Differences Between function declaration, function Expression and arrow function;
+
+9. JavaScript Arrow Function
+
+10. Spread syntax (...)
